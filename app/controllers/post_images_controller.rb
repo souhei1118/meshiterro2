@@ -29,7 +29,6 @@ class PostImagesController < ApplicationController
     redirect_to post_images_path
   end
 
-
   # 投稿データのストロングパラメータ
   private
 
